@@ -43,7 +43,6 @@ def to_excel(df):
     processed_data = output.getvalue()
     return processed_data
 
-
 # Função principal da aplicação
 def main():
     # Configuração inicial da página da aplicação
